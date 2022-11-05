@@ -1,10 +1,11 @@
-//Ex03.9 Modified Account Class
-// Modify class Account (Fig. 3.8) to provide a member function
-//called withdraw that withdraws money from an Account. Ensure that the withdrawal amount does
-//not exceed the Account’s balance. If it does, the balance should be left unchanged and the member
-//function should display a message indicating "Withdrawal amount exceeded account balance."
-//Modify class AccountTest (Fig. 3.9) to test member function withdraw
+/*
+**  Filename:    Account.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
 
+Description of the problem  (Modified Account Class)
+*/
 #include "Account.h"
 using namespace std;
 

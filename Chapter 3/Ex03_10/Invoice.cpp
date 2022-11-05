@@ -1,17 +1,11 @@
-//Ex03.10 (Invoice class) 
-//Create a class called Invoice that a hardware store might use to represent an invoice 
-//for an item sold at the store.  An Invoice should include six data members-a part number (type string), 
-//a part description (type string), a quantity of the item being purchased (type int),
-//a price per item (type int) a value-added tax (VAT) rate as a decimal (type double) and a discount
-//rate as a decimal(type double).  Your class should have a constructor that initializes 
-//the six data members. The constructor should initialize the first four data members with values 
-//from parameters and the last two data members to default values of 0.20 per cent 
-//and zero respectively. Provide a set and a get functions for each data member. In addition, 
-//provide a member function named getInvoiceAmount that calculates 
-//the invoice amount (i.e., multiplies the quantity by the price per item and applies 
-//the tax and discount amounts), then returns the amount. Have the set data members 
-//perform validity checks on their parameters—if a parameter value is not positive, it should be
-//left unchanged. Write a driver program to demonstrate Invoice’s capabilities
+/*
+**  Filename:    Invoice.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem  (Invoice class) 
+*/
 #include <iostream>
 #include "Invoice.h"
 using namespace std;

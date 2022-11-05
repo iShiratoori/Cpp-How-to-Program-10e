@@ -1,15 +1,22 @@
-//Ex2.29 (Table) 
-//Using the techniques of this chapter, write a program that calculates 
-//the surface area and volume of cubes with face lengths of 0 to 4 cm. 
-//Use tabs to print the following neatly formatted table of values: 
-//  Face length         Surface area              Volume
-//  of cube (cm)        of cube (cm^2)          of cube(cm^3)
-//    0                       0                        0
-//    1                       6                        1
-//    2                       24                       8
-//    3                       54                       27
- //   4                       96                       64
+/*
+**  Filename:    Ex2_29.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        02/11/2022
 
+Description of the problem (Table) 
+
+Using the techniques of this chapter, write a program that calculates 
+the surface area and volume of cubes with face lengths of 0 to 4 cm. 
+Use tabs to print the following neatly formatted table of values: 
+ Face length         Surface area              Volume
+ of cube (cm)        of cube (cm^2)          of cube(cm^3)
+   0                       0                        0
+   1                       6                        1
+   2                       24                       8
+   3                       54                       27
+   4                       96                       64
+*/
 #include <iostream>
 using std::cout;
 using std::cin;

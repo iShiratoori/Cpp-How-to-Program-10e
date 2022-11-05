@@ -1,4 +1,11 @@
-//Ex3.14 Account.h
+/*
+**  Filename:    Account.h
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem Account.h
+*/
 #ifndef ACCOUNT_H
 #define ACCOUNT_H
 

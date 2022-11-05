@@ -1,9 +1,17 @@
-//Ex2.28 (Digits of an Integer) 
-//Write a program that inputs a four-digit integer, separates the integer
-//into its digits and prints them in reverse order separated by two spaces each. 
-//[Hint: Use the integer division and remainder operators.] 
-//For example, if the user types in 4315, the program should print:
-//    5   1    3   4
+/*
+**  Filename:    Ex2_28.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        02/11/2022
+
+Description of the problem (Digits of an Integer) 
+
+Write a program that inputs a four-digit integer, separates the integer
+into its digits and prints them in reverse order separated by two spaces each. 
+[Hint: Use the integer division and remainder operators.] 
+For example, if the user types in 4315, the program should print:
+   5   1    3   4
+*/
 #include <iostream>
 using std::cout;
 using std::cin;

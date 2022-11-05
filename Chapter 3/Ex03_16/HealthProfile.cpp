@@ -1,4 +1,11 @@
-//Ex3.16 (Computerization of Health Records)
+/*
+**  Filename:    HealthProfile.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem   (Computerization of Health Records)
+*/
 
 #include "HealthProfile.h"
 

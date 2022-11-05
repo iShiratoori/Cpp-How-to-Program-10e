@@ -1,3 +1,12 @@
+/*
+**  Filename:    MotorVehicle.h
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem MotorVehicle class headerfile
+*/
+
 #ifndef MOTORVEHICLE_H
 #define MOTORVEHICLE_H
 #include <iostream>

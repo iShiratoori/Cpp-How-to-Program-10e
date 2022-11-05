@@ -1,4 +1,11 @@
-//Ex03.12 Date.h
+/*
+**  Filename:    Date.h
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem  Date.h
+*/
 #ifndef DATE_H
 #define DATEH
 

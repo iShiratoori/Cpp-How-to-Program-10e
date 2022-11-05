@@ -1,4 +1,11 @@
-//Ex3.13 (Removing Duplicated Code in the main Function)
+/*
+**  Filename:    Account.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem (Removing Duplicated Code in the main Function) 
+*/
 
 #include "Account.h"
 

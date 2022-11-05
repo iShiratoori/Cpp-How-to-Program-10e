@@ -1,4 +1,11 @@
-//3.15 (Target-Heart-Rate Calculator)
+/*
+**  Filename:    THR.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem   (Target-Heart-Rate Calculator)
+*/
 
 #include "THR.h"
 

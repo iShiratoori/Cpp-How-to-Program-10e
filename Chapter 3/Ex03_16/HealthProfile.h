@@ -1,4 +1,11 @@
-//Ex3.16 HeathProfile.h
+/*
+**  Filename:     HeathProfile.h
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem    HeathProfile.h
+*/
 #ifndef HEALTHPROFILE_H
 #define HEALTHPROFILE_H
 

@@ -1,10 +1,11 @@
-//Ex3.11 (MotorVehicle class) 
-//Create a class called MotorVehicle that represents a motor vehicle
-//using: make (type string), fuelType (type string), yearOfManufacture (type int), 
-//color (type string) and engineCapacity (type int). Your class should have a constructor that initializes the three
-//data members. Provide a set and a get function for each data member. Add a member function
-//called displayCarDetails that displays the five data members in five separate lines in the form
-//"member name: member value". Write a test program to demonstrate MotorVehicle’s capabilities.
+/*
+**  Filename:    MotorVehicle.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem  (MotorVehicle class) 
+*/
 
 #include <iostream>
 #include "MotorVehicle.h"

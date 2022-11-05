@@ -1,8 +1,16 @@
-//Ex2.24 (Odd or Even)
-//Write a program that reads in two integers and determines and prints
-//whether each integer, as well as the sum of the two integers is an odd number. 
-//[Hint: Use the remainder operator (%). An odd number is not a multiple of two. 
-//Any odd number has a remainder of one when divided by 2.]
+/*
+**  Filename:    Ex2_24.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        02/11/2022
+
+Description of the problem (Odd or Even)
+
+Write a program that reads in two integers and determines and prints
+whether each integer, as well as the sum of the two integers is an odd number. 
+[Hint: Use the remainder operator (%). An odd number is not a multiple of two. 
+Any odd number has a remainder of one when divided by 2.]
+*/
 #include <iostream>
 using namespace std;
 

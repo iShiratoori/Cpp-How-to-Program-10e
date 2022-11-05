@@ -1,4 +1,11 @@
-//Ex3.15 TargetHeartRate TRH.h
+/*
+**  Filename:    THR.h
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem   THR.hs
+*/
 #ifndef THR_H
 #define THR_H
 

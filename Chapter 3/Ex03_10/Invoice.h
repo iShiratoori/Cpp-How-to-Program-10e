@@ -1,4 +1,11 @@
-//Ex3.10 Invoice.h
+/*
+**  Filename:    Invoice.h
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem  Invoice.h
+*/
 #ifndef INVOICE_H
 #define INVOICE_H
 

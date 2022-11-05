@@ -1,4 +1,11 @@
-//Ex3.17 ElectricBill.h
+/*
+**  Filename:    ElectricBill.h
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem  ElectricBill.h 
+*/
 
 #ifndef ELECTRICBILL_H
 #define ELECTRICBILL_H

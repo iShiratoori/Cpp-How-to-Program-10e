@@ -1,4 +1,11 @@
-//Ex3.17 (Automating Electric Energy Purchases) 
+/*
+**  Filename:    ElectricBill.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem    (Automating Electric Energy Purchases) 
+*/
 #include "ElectricBill.h"
 
 int main()

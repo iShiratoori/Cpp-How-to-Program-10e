@@ -1,4 +1,11 @@
-//Ex3.14  (C++11 List Initializers) 
+/*
+**  Filename:    Account.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        03/11/2022
+
+Description of the problem (C++11 List Initializers) 
+*/
 
 #include "Account.h"
 
