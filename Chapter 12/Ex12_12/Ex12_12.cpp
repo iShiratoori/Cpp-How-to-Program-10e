@@ -6,7 +6,7 @@
 int main()
 {
 
-    std::vector<std::variant<Package, TwoDayPackage, OvernightPackage>> packages;
+    std::vector<std::variant<Package *, TwoDayPackage *, OvernightPackage *>> packages;
     // create some packages
     Address sender1("John Doe", "123 Main St", "Anytown", "UK", "SK15 8BM");
     Address recipient1("Jane Smith", "456 Oak Ave", "Somecity", "UK", "SK10 6MB");
@@ -19,9 +19,9 @@ int main()
     OvernightPackage package3(sender1, recipient3, 20.0, 0.6, 0.2);
 
     // add packages to vector
-    packages.push_back(package1);
-    packages.push_back(package2);
-    packages.push_back(package3);
+    packages.push_back(&package1);
+    packages.push_back(&package2);
+    packages.push_back(&package3);
 
     // process packages polymorphically
 
@@ -30,8 +30,8 @@ int main()
     {
         std::visit([&totalShippingCost](const auto &p)
                    {
-                    std::cout <<p.getAddressInfo();
-                     double cost = p.calculateCost();
+                    std::cout <<p->getAddressInfo();
+                     double cost = p->calculateCost();
                     std::cout << "Shipping cost: $" << cost << "\n\n";
                     totalShippingCost += cost ; },
                    package);
