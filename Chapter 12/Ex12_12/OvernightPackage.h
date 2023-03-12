@@ -7,7 +7,7 @@
 */
 #pragma once
 #include "Package.h"
-class OvernightPackage : public Package
+class OvernightPackage final : public Package
 {
 public:
     OvernightPackage(Address sender, Address reciept, double weight, double costPerOunce, double extraCost);

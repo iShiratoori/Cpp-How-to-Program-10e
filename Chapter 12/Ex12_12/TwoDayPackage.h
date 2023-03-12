@@ -8,7 +8,7 @@
 */
 #include "Package.h"
 
-class TwoDayPackage : public Package
+class TwoDayPackage final : public Package
 {
 public:
     TwoDayPackage(Address sender, Address reciept, double weight, double costPerOunce, double flatfee);

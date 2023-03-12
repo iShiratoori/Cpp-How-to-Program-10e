@@ -12,7 +12,10 @@
 #include "Commission.h"
 #include "Date.h"
 
-using conpensationModel = std::variant<Salaried, Commission>;
+#include "PieceWorker.h"
+#include "HourlyWorker.h"
+
+using conpensationModel = std::variant<Salaried, Commission, PieceWorker, HourlyWorker>;
 
 class Employee
 {
