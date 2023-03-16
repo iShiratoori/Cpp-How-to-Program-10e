@@ -1,3 +1,10 @@
+/*
+**  Filename:    Bicycle.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        20/01/2023
+**  Description: class Bicycle implementation
+*/
 #include "Bicycle.h"
 
 Bicycle::Bicycle()

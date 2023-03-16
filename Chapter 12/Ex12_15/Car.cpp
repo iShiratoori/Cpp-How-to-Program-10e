@@ -1,3 +1,10 @@
+/*
+**  Filename:    Car.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        20/01/2023
+**  Description: class caar implementation
+*/
 #include "Car.h"
 
 Car::Car()

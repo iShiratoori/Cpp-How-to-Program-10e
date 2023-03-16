@@ -1,3 +1,10 @@
+/*
+**  Filename:    Building.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        20/01/2023
+**  Description: class Building implementation
+*/
 #include "Building.h"
 
 Building::Building()

@@ -4,7 +4,7 @@
 **  Email:       shiratoori2022@gmail.com
 **  Date:        1/12/2022
 
-**  Description: Enhancing Error Report (class Student)
+**  Description: (class Student)
 */
 #pragma once
 

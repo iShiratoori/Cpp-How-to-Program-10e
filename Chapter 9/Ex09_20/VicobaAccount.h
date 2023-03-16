@@ -1,3 +1,11 @@
+/*
+**  Filename:    VicobaAccount.h
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        1/12/2022
+
+**  Description: VicobaAccount class
+*/
 #pragma once
 #define FMT_HEADER_ONLY
 #include <iostream>

@@ -1,3 +1,11 @@
+/*
+**  Filename:    VicobaAccount.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        1/12/2022
+
+**  Description: class VicobaAccount class emplementtion
+*/
 #include "VicobaAccount.h"
 
 VicobaAccount::VicobaAccount(double loan, int loanD)

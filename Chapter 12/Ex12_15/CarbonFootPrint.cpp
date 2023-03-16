@@ -1,3 +1,10 @@
+/*
+**  Filename:    CarbonFootprint.cpp
+**  Author:      Abdirahman Hussein
+**  Email:       shiratoori2022@gmail.com
+**  Date:        20/01/2023
+**  Description: class CarbonFootprint implementation
+*/
 #include "CarbonFootPrint.h"
 
 CarbonFootPrint::CarbonFootPrint()
